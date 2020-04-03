@@ -5,8 +5,8 @@ This is the sample application for
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-# From the "Learn Enough to be Dangerous" Collection
-*Link to the [Chapter 3 of The Rails Tutorial by Michael Hartl](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/static_pages)
+## From the "Learn Enough to be Dangerous" Collection
+*Link to the [Chapter 3 of The Rails Tutorial by Michael Hartl](https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/static_pages)*
 
 ## Live Demo
 
