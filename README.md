@@ -10,7 +10,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://sleepy-savannah-70947.herokuapp.com/)
 
 ## Getting started
 
