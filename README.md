@@ -14,7 +14,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 ## Getting started
 
-To get started with the app, clone the repo and then install the needed gems:
+To get started with the app, clone the repo, and then install the needed gems:
 
 ```
 $ bundle install --without production
